@@ -1,4 +1,4 @@
-# ChangeLog
+# Changelog
 
 ## September 19th
 
