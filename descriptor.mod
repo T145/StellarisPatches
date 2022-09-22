@@ -1,8 +1,7 @@
-version="3.3.0"
+version="3.4.5.2"
 tags={
 	"Fixes"
 }
 picture="thumbnail.png"
-name="!!Ariphaos Unofficial Patch (3.3) - Beta only"
-supported_version="3.3.*"
-remote_file_id="2473559432"
+name="~ Ariphaos Unofficial Patch (3.4)"
+supported_version="3.4.*"
