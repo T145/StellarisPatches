@@ -1,8 +1,6 @@
-# Unofficial Patch for Stellaris v3.4.5
+# T145's Patch Collection for Stellaris v3.4.5
 
-
-
-## Scope of the Unofficial Patch
+## Patch Scope
 
 We accept fixes for the following issues. Some issues might span multiple categories. 
 
@@ -26,7 +24,7 @@ We accept fixes for the following issues. Some issues might span multiple catego
 
 * **Cosmetics** - Typos, incorrect icons, graphical issues, and other elements that do not impact gameplay in any fashion.  
 
-## What is out of scope
+### Out of scope
 
 * **Tuning** - If something is functioning but merely 'unbalanced', it isn't our job to fix it. Tuning is only appropriate when necessary as a part of a larger fix, where numbers are needed and Paradox provides none.
 
