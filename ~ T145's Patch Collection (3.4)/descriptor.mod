@@ -3,5 +3,5 @@ tags={
 	"Fixes"
 }
 picture="thumbnail.png"
-name="~ Ariphaos Unofficial Patch (3.4)"
+name="~ T145's Patch Collection (3.4)"
 supported_version="3.4.*"
